@@ -8,5 +8,7 @@
     <record id="1300000000aaaaaaaaa3" name="Установка" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="14822209605vxnqbkmwz" name="Инфо-сервер"/>
+  <node crypt="" id="14822209808n2pj3b72b" name="MyTetra-сервер"/>
  </content>
 </root>
