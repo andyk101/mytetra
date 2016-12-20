@@ -8,7 +8,15 @@
     <record id="1300000000aaaaaaaaa3" name="Установка" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="14822209605vxnqbkmwz" name="Инфо-сервер"/>
-  <node crypt="" id="14822209808n2pj3b72b" name="MyTetra-сервер"/>
+  <node crypt="" id="14822209605vxnqbkmwz" name="Инфо-сервер">
+   <recordtable>
+    <record id="1482221099xppl11rbs4" name="Работа" author="" url="" tags="" ctime="20161220110459" dir="14822210990cts4v3kf8" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="14822209808n2pj3b72b" name="MyTetra-сервер">
+   <recordtable>
+    <record id="1482221089moytze7r11" name="Работа" author="" url="" tags="" ctime="20161220110449" dir="14822210899j9l0i5f6f" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
