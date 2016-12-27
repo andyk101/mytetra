@@ -24,7 +24,11 @@
    </recordtable>
   </node>
   <node crypt="" id="1482866809mevwva6whc" name="! Финансы">
-   <node crypt="" id="14828668243nvws1ewce" name="БКС"/>
+   <node crypt="" id="14828668243nvws1ewce" name="БКС">
+    <recordtable>
+     <record id="1482869545tpwelhqmk6" name="ИИС" author="" url="" tags="" ctime="20161227231225" dir="1482869545nzi40wsowm" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
