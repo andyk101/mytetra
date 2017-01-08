@@ -31,8 +31,16 @@
    </node>
   </node>
   <node crypt="" id="1483893372dp3tqzaj9b" name="Образование">
-   <node crypt="" id="1483893391uuxl4qx5e3" name="Скорочтение"/>
-   <node crypt="" id="1483893402l7yehzhs7w" name="Английский"/>
+   <node crypt="" id="1483893391uuxl4qx5e3" name="Скорочтение">
+    <recordtable>
+     <record id="14838936360pcrysi0fz" name="Планирование" author="" url="" tags="" ctime="20170108194036" dir="1483893636iciiyies2o" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1483893402l7yehzhs7w" name="Английский">
+    <recordtable>
+     <record id="1483893732m1im5ka3q4" name="Планирование" author="" url="" tags="" ctime="20170108194212" dir="1483893732q7qweid59k" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
