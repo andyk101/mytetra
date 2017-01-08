@@ -42,5 +42,12 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="1483894224l99uawxynh" name="Человек">
+   <node crypt="" id="14838942725v0yuxtc0p" name="Спорт">
+    <recordtable>
+     <record id="14838942994yjgtz85hg" name="Планирование" author="" url="" tags="" ctime="20170108195139" dir="1483894299smn16119vq" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
