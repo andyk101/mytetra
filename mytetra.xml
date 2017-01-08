@@ -30,5 +30,9 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="1483893372dp3tqzaj9b" name="Образование">
+   <node crypt="" id="1483893391uuxl4qx5e3" name="Скорочтение"/>
+   <node crypt="" id="1483893402l7yehzhs7w" name="Английский"/>
+  </node>
  </content>
 </root>
