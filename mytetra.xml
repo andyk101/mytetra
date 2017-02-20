@@ -63,22 +63,12 @@
      <record id="1486027781p8ml3dx451" name="Исход" author="" url="" tags="" ctime="20170202122941" dir="14860277813htqohnm9g" file="text.html"/>
      <record id="14860277933x9lkt4wgm" name="Псалом" author="" url="" tags="" ctime="20170202122953" dir="14860277930e8y41dpf8" file="text.html"/>
      <record id="1486027806z0meecyp2g" name="Евангелие" author="" url="" tags="" ctime="20170202123006" dir="1486027806rh99sr379w" file="text.html"/>
+     <record id="1486139850rwjid33mhg" name="Война с грехом" author="" url="" tags="" ctime="20170220075815" dir="14861398503gzwisskk1" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1485709756yv5f9cbsf3" name="Красота">
     <recordtable>
      <record id="1485709784z7pgphxdy3" name="Планирование" author="" url="" tags="" ctime="20170129200944" dir="1485709784dlriggud3x" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1486139837gnikv2tdt4" name="Война с грехом">
-    <recordtable>
-     <record id="1486139850rwjid33mhg" name="Планирование" author="" url="" tags="" ctime="20170203193730" dir="14861398503gzwisskk1" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1487535774nmu5y9joal" name="Господь">
-    <recordtable>
-     <record id="148753579020sk7h1kxe" name="Планирование" author="" url="" tags="" ctime="20170219232310" dir="1487535790nhlxvv1ebt" file="text.html"/>
-     <record id="1487535811r305jtf7l8" name="Новый завет" author="" url="" tags="" ctime="20170219232331" dir="1487535811up1myg5rg8" file="text.html"/>
     </recordtable>
    </node>
   </node>
